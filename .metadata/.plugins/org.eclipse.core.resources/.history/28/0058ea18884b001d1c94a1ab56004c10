@@ -1,0 +1,5 @@
+package com.management.Exception;
+
+public class UserNotFoundException {
+
+}
